@@ -14,7 +14,7 @@ Cada projeto reflete não apenas a aplicação prática dessas habilidades, mas 
 
 Se você tem interesse em contribuir ou fornecer feedback sobre qualquer projeto específico, sinta-se à vontade para abrir uma issue ou enviar uma pull request. Suas sugestões são sempre bem-vindas!
 
-Agradeço por explorar este repositório. Espero que esses projetos possam servir como fonte de aprendizado e inspiração para suas próprias empreitadas na nuvem e na engenharia de dados. 🚀
+Agradeço por explorar este repositório. Espero que esses projetos possam servir como fonte de aprendizado e inspiração para suas próprias empreitadas na nuvem. 🚀
 
 ## Desenvolvedor :octocat:
 Guilherme Moraes
